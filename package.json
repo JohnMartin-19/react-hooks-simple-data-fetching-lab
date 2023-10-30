@@ -16,6 +16,7 @@
     "mocha": "^8.2.1",
     "msw": "^0.24.1"
   },
+  "proxy":"http://localhost:8080",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
